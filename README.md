@@ -23,6 +23,6 @@ Core Operations
 7. Close Account → Deactivate account
 Technology Stack
 
-Language: [Python/Java/C++/Node.js - whatever you used]
-Data Storage: [File-based/JSON/SQLite - whatever you used]
+Language: C++
+Data Storage: [File-based/JSON/SQLite 
 Interface: Command-Line Interface (CLI)
